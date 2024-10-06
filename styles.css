@@ -46,12 +46,14 @@ links {
 .social {
     background-color: hsl(0, 0%, 20%);
     margin: 7px;
+    display: inline-block;
     text-align: center;
     width: 220px;
     padding: 10px 10px 10px 10px;
     border-radius: 5px;
     font-size: 14px;
     font-weight: 700;
+    cursor: pointer;
 }
 .social:hover {
     background-color: hsl(75, 94%, 57%);
